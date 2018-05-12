@@ -1,0 +1,29 @@
+_repo: Mon-oncle-Benjamin_34560
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tillier, Claude
+    birthdate: 1801
+    deathdate: 1844
+    gutenberg_agent_id: '37085'
+    url: http://www.gutenberg.org/2009/agents/37085
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2010-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34560'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- !lcsh 'France -- Social conditions -- 19th century -- Fiction'
+- !lcsh 'Uncles -- Fiction'
+title: Mon oncle Benjamin
+url: http://www.gutenberg.org/ebooks/34560
