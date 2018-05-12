@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37085'
     url: http://www.gutenberg.org/2009/agents/37085
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34560#Mon-oncle-Benjamin
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-12-04'
 gutenberg_type: Text
